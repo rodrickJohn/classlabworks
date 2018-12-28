@@ -1,0 +1,170 @@
+#Output for 2(c)
+
+Haiti,81,59,40
+Holy See,90,87,95
+Honduras,65,97,31
+Hong Kong,6,6,59
+Hungary,73,2,84
+Jamaica,63,68,92
+Japan,55,4,51
+Jordan,35,74,85
+Kazakhstan,71,6,25
+Kenya,12,95,78
+Kiribati,30,92,81
+Korea, North,98,44,73
+Korea, South,39,86,20
+Kosovo,6,24,43
+Kuwait,59,30,25
+Kyrgyzstan,41,61,35
+Laos,60,44,80
+Latvia,91,42,60
+Lebanon,58,78,84
+Lesotho,81,89,63
+Liberia,70,90,6
+Libya,61,56,67
+Liechtenstein,98,44,80
+Lithuania,47,16,77
+Luxembourg,77,58,91
+Macau,91,1,45
+Macedonia,19,77,49
+Madagascar,5,94,57
+Malawi,99,56,47
+Malaysia,81,100,95
+Maldives,69,73,28
+Mali,23,12,53
+Malta,53,64,2
+Marshall Islands,17,91,80
+Mauritania,47,22,91
+Mauritius,93,52,12
+Mexico,34,68,89
+Micronesia,96,81,69
+Moldova,21,7,19
+Monaco,53,47,86
+Mongolia,3,88,60
+Montenegro,71,38,82
+Morocco,13,80,56
+Mozambique,40,69,90
+Namibia,54,57,58
+Nauru,27,99,79
+Nepal,48,73,99
+Netherlands,29,44,71
+New Zealand,70,39,79
+Nicaragua,19,26,51
+Niger,1,49,18
+Nigeria,75,57,42
+North Korea,83,27,34
+Norway,87,55,36
+Oman,4,34,73
+Pakistan,31,79,81
+Palau,15,57,64
+Panama,6,72,21
+Papua New Guinea,80,95,29
+Paraguay,62,32,73
+Peru,68,13,40
+Philippines,88,66,53
+Poland,55,9,96
+Portugal,77,34,73
+Qatar,41,46,91
+Romania,92,81,53
+Russia,56,66,51
+Rwanda,21,70,39
+Samoa,7,95,47
+San Marino,7,25,57
+Sao Tome and Principe,11,69,53
+Saudi Arabia,75,79,31
+Senegal,28,95,57
+Serbia,12,9,57
+Seychelles,14,69,38
+Sierra Leone,7,12,20
+Singapore,64,98,44
+Sint Maarten,49,70,76
+Slovakia,57,56,93
+Slovenia,100,29,40
+Solomon Islands,57,95,91
+Somalia,2,30,85
+South Africa,77,90,35
+South Korea,3,1,63
+South Sudan,10,68,90
+Spain,78,77,24
+Sri Lanka,14,70,31
+Sudan,45,6,42
+Suriname,31,45,82
+Swaziland,83,85,64
+Sweden,34,37,33
+Switzerland,54,79,67
+Syria,1,61,45
+Taiwan,82,39,18
+Tajikistan,12,70,59
+Tanzania,88,35,44
+Thailand,11,5,96
+Timor-Leste,26,92,63
+Togo,6,76,60
+Tonga,92,9,18
+Trinidad and Tobago,40,27,52
+Tunisia,81,74,40
+Turkey,23,80,78
+Turkmenistan,72,99,16
+Tuvalu,48,75,19
+Uganda,47,75,86
+Ukraine,77,91,71
+United Arab Emirates,60,56,19
+United Kingdom,78,29,2
+Uruguay,13,53,9
+Uzbekistan,63,1,30
+Vanuatu,28,20,31
+Venezuela,13,66,40
+Vietnam,94,28,85
+Yemen,17,31,1
+Zambia,11,62,53
+Zimbabwe,55,3,79
+
+# output for 2(d)
+
+{'Haiti': [81, 59, 40], 'Holy See': [90, 87, 95], 'Honduras': [65, 97, 31], 'Hong Kong': [6, 6, 59], 'Hungary': [73, 2, 84], 'Jamaica': [63, 68, 92], 'Japan': [55, 4, 51], 'Jordan': [35, 74, 85], 'Kazakhstan': [71, 6, 25], 'Kenya': [12, 95, 78], 'Kiribati': [30, 92, 81], 'Korea North': [98, 44, 73], 'Korea South': [39, 86, 20], 'Kosovo': [6, 24, 43], 'Kuwait': [59, 30, 25], 'Kyrgyzstan': [41, 61, 35], 'Laos': [60, 44, 80], 'Latvia': [91, 42, 60], 'Lebanon': [58, 78, 84], 'Lesotho': [81, 89, 63], 'Liberia': [70, 90, 6], 'Libya': [61, 56, 67], 'Liechtenstein': [98, 44, 80], 'Lithuania': [47, 16, 77], 'Luxembourg': [77, 58, 91], 'Macau': [91, 1, 45], 'Macedonia': [19, 77, 49], 'Madagascar': [5, 94, 57], 'Malawi': [99, 56, 47], 'Malaysia': [81, 100, 95], 'Maldives': [69, 73, 28], 'Mali': [23, 12, 53], 'Malta': [53, 64, 2], 'Marshall Islands': [17, 91, 80], 'Mauritania': [47, 22, 91], 'Mauritius': [93, 52, 12], 'Mexico': [34, 68, 89], 'Micronesia': [96, 81, 69], 'Moldova': [21, 7, 19], 'Monaco': [53, 47, 86], 'Mongolia': [3, 88, 60], 'Montenegro': [71, 38, 82], 'Morocco': [13, 80, 56], 'Mozambique': [40, 69, 90], 'Namibia': [54, 57, 58], 'Nauru': [27, 99, 79], 'Nepal': [48, 73, 99], 'Netherlands': [29, 44, 71], 'New Zealand': [70, 39, 79], 'Nicaragua': [19, 26, 51], 'Niger': [1, 49, 18], 'Nigeria': [75, 57, 42], 'North Korea': [83, 27, 34], 'Norway': [87, 55, 36], 'Oman': [4, 34, 73], 'Pakistan': [31, 79, 81], 'Palau': [15, 57, 64], 'Panama': [6, 72, 21], 'Papua New Guinea': [80, 95, 29], 'Paraguay': [62, 32, 73], 'Peru': [68, 13, 40], 'Philippines': [88, 66, 53], 'Poland': [55, 9, 96], 'Portugal': [77, 34, 73], 'Qatar': [41, 46, 91], 'Romania': [92, 81, 53], 'Russia': [56, 66, 51], 'Rwanda': [21, 70, 39], 'Samoa': [7, 95, 47], 'San Marino': [7, 25, 57], 'Sao Tome and Principe': [11, 69, 53], 'Saudi Arabia': [75, 79, 31], 'Senegal': [28, 95, 57], 'Serbia': [12, 9, 57], 'Seychelles': [14, 69, 38], 'Sierra Leone': [7, 12, 20], 'Singapore': [64, 98, 44], 'Sint Maarten': [49, 70, 76], 'Slovakia': [57, 56, 93], 'Slovenia': [100, 29, 40], 'Solomon Islands': [57, 95, 91], 'Somalia': [2, 30, 85], 'South Africa': [77, 90, 35], 'South Korea': [3, 1, 63], 'South Sudan': [10, 68, 90], 'Spain': [78, 77, 24], 'Sri Lanka': [14, 70, 31], 'Sudan': [45, 6, 42], 'Suriname': [31, 45, 82], 'Swaziland': [83, 85, 64], 'Sweden': [34, 37, 33], 'Switzerland': [54, 79, 67], 'Syria': [1, 61, 45], 'Taiwan': [82, 39, 18], 'Tajikistan': [12, 70, 59], 'Tanzania': [88, 35, 44], 'Thailand': [11, 5, 96], 'Timor-Leste': [26, 92, 63], 'Togo': [6, 76, 60], 'Tonga': [92, 9, 18], 'Trinidad and Tobago': [40, 27, 52], 'Tunisia': [81, 74, 40], 'Turkey': [23, 80, 78], 'Turkmenistan': [72, 99, 16], 'Tuvalu': [48, 75, 19], 'Uganda': [47, 75, 86], 'Ukraine': [77, 91, 71], 'United Arab Emirates': [60, 56, 19], 'United Kingdom': [78, 29, 2], 'Uruguay': [13, 53, 9], 'Uzbekistan': [63, 1, 30], 'Vanuatu': [28, 20, 31], 'Venezuela': [13, 66, 40], 'Vietnam': [94, 28, 85], 'Yemen': [17, 31, 1], 'Zambia': [11, 62, 53], 'Zimbabwe': [55, 3, 79]}
+
+
+# output for 2(e)
+
+Month      Min Max Average Stdev
+January    1   100  48.21  30.23
+February   1   100  54.68  29.34
+March      1    99  55.32  25.87
+
+# output for 2(f)
+
+Slovenia ---> 100
+
+# output for 2(g)
+
+Country name: Moldova
+January: 21
+February: 7
+March: 19
+
+# output for 2(h)
+
+S/N   Country            Jan Value
+1     Honduras             65
+2     Jamaica              63
+3     Japan                55
+4     Kuwait               59
+5     Laos                 60
+6     Lebanon              58
+7     Liberia              70
+8     Libya                61
+9     Maldives             69
+10    Malta                53
+11    Monaco               53
+12    Namibia              54
+13    New Zealand          70
+14    Paraguay             62
+15    Peru                 68
+16    Poland               55
+17    Russia               56
+18    Singapore            64
+19    Slovakia             57
+20    Solomon Islands      57
+21    Switzerland          54
+22    United Arab Emirates 60
+23    Uzbekistan           63
+24    Zimbabwe             55

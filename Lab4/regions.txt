@@ -1,0 +1,23 @@
+Dar es Salaam,Dar es Salaam
+Pwani,Kibaha
+Mtwara,Mtwara
+Lindi,Lindi
+Tabora,Tabora
+Mara,Musoma
+Dodoma,Dodoma
+Mbeya,Mbeya
+Ruvuma,Songea
+Rukwa,Sumbawanga
+Singida,Singida
+Kilimanjaro,Moshi
+Mwanza,Mwanza
+Kagera,Bukoba
+Arusha,Arusha
+Tanga,Tanga
+Morogoro,Morogoro
+Katavi,Mpanda
+Manyara,Babati
+Pwani,Kibaha
+Rukwa,Sumbawanga
+Simiyu,Bariadi
+Songwe,Vwawa
